@@ -57,7 +57,7 @@ export function Hero() {
       />
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-20 relative z-10">
-        <div className="text-center max-w-4xl mx-auto">
+        <div className="text-center max-w-4xl mx-auto mt-4">
           <div className="mb-8">
             {/* Avatar with glow effect */}
             <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-primary to-primary/60 flex items-center justify-center text-4xl font-bold text-primary-foreground animate-pulse-glow animate-fadeInUp shadow-2xl">
