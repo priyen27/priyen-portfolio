@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a developer.
 
-🌐 **Live Site**: [priyen-portfolio.vercel.app](https://priyen-portfolio.vercel.app/)
+🌐 **Live Site**: [priyen-portfolio.vercel.app](https://priyen.larks.in//)
 
 ---
 
